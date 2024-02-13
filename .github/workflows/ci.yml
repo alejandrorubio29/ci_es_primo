@@ -35,4 +35,3 @@ jobs:
     - name: Proves amb pytest
       run: |
         pytest
-
